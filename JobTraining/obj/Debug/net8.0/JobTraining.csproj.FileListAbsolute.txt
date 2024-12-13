@@ -1,0 +1,14 @@
+/home/rus/Escritorio/JobTraining/JobTraining/bin/Debug/net8.0/JobTraining
+/home/rus/Escritorio/JobTraining/JobTraining/bin/Debug/net8.0/JobTraining.deps.json
+/home/rus/Escritorio/JobTraining/JobTraining/bin/Debug/net8.0/JobTraining.runtimeconfig.json
+/home/rus/Escritorio/JobTraining/JobTraining/bin/Debug/net8.0/JobTraining.dll
+/home/rus/Escritorio/JobTraining/JobTraining/bin/Debug/net8.0/JobTraining.pdb
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/JobTraining.GeneratedMSBuildEditorConfig.editorconfig
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/JobTraining.AssemblyInfoInputs.cache
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/JobTraining.AssemblyInfo.cs
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/JobTraining.csproj.CoreCompileInputs.cache
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/JobTraining.dll
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/refint/JobTraining.dll
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/JobTraining.pdb
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/JobTraining.genruntimeconfig.cache
+/home/rus/Escritorio/JobTraining/JobTraining/obj/Debug/net8.0/ref/JobTraining.dll
